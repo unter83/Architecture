@@ -1,8 +1,7 @@
 package InMemoryModel;
 
-public interface IModelChangedObserver {
+interface IModelChangedObserver{
 
-    ModelStore store;
     void ApplyUpdateModel() {
 
     }
