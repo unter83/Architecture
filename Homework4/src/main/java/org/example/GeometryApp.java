@@ -1,5 +1,6 @@
 package org.example;
-abstract class Shape {
+abstract class Shape  {
+
 }
 
 interface ShapeCalculation {

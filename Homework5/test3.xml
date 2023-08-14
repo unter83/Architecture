@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserCatalogue>
+    <User>
+        <Id>0</Id>
+        <Name>Alex</Name>
+    </User>
+    <User>
+        <Id>1</Id>
+        <Name>Bob</Name>
+    </User>
+    <User>
+        <Id>2</Id>
+        <Name>John</Name>
+    </User>
+    <User>
+        <Id>3</Id>
+        <Name>Maria</Name>
+    </User>
+    <User>
+        <Id>4</Id>
+        <Name>Nancy</Name>
+    </User>
+    <User>
+        <Id>5</Id>
+        <Name>George</Name>
+    </User>
+</UserCatalogue>
